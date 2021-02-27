@@ -1,0 +1,11 @@
+{
+  "local": {
+    "uiUrl": "https://testare-automata.practica.tech/shop"
+  },
+  "pre-prod": {
+    "uiUrl": "https://ceva"
+  },
+  "prod": {
+    "uiUrl": "https://google.com"
+  }
+}
